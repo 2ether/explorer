@@ -3,6 +3,8 @@
 
 body {
     font-family: 'Open Sans', sans-serif !important;
+    background-color: #0140b9;
+    color: white;
 }
 
 .menu {
@@ -35,39 +37,39 @@ body {
 }
 
 .navbar-dark {
-    background-color: #293640;
-    color: #FFF;
+    background-color: white;
+    color: black;
 }
 
 .navbar a {
-    color: #FFF;
+    color: black;
 }
 
 .navbar a:hover {
-    color: #FFF;
+    color: black;
 }
 
 .navbar a:visited {
-    color: #FFF;
+    color: black;
 }
 
 .title {
-    color: #FFF;
+    color: black;
     font-weight: bold;
 }
 
 input.searchi {
-    background-color: #293640 !important;
+    background-color: white !important;
     border: 2px solid #384a58;
-    color: #fff;
+    color: black;
     width: 100% !important;
 }
 
 input.searchimain {
     height: 50px;
-    background-color: #293640 !important;
+    background-color: white !important;
     border: 2px solid #384a58;
-    color: #fff;
+    color: black;
     width: 100%;
 }
 
@@ -78,61 +80,63 @@ input.searchimain {
 }
 
 .boxi {
-    background-color: #104050;
-    color: #FFF;
+    background-color: white;
+    color: black;
     font-size: 18px;
     font-weight: lighter;
     padding: 15px;
     border-radius: 4px;
     margin-bottom: 20px;
+
 }
 
 .thead-inverse {
-    background-color: #293640;
-    color: #FFF;
+    background-color: white;
+    color: black;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
 }
 
 .nav > li > a:focus, .nav > li > a:hover {
-    background-color: #30404c !important;
+    background-color: #072e78 !important;
+    color: white;
 }
 
 .btn-blue {
-    background-color: #293640 !important;
+    background-color: white !important;
     border-color: #384a58 !important;
     color: #FFF !important;
 }
 
 .btn-blue.focus, .btn-blue:focus {
-    background-color: #293640;
+    background-color: white;
     border-color: #384a58;
-    color: #FFF;
+    color: black;
 }
 
 .btn-blue:hover {
-    background-color: #293640;
+    background-color: white;
     border-color: #384a58;
-    color: #FFF;
+    color: black;
 }
 
 .btn-bluem {
-    background-color: #293640 !important;
+    background-color: #072e78 !important;
     border-color: #384a58 !important;
     color: #FFF !important;
     height: 50px !important;
 }
 
 .btn-bluem.focus, .btn-bluem:focus {
-    background-color: #293640;
+    background-color: white;
     border-color: #384a58;
-    color: #FFF;
+    color: black;
 }
 
 .btn-bluem:hover {
-    background-color: #293640;
+    background-color: white;
     border-color: #384a58;
-    color: #FFF;
+    color: black;
 }
 
 .styledfoot {
@@ -140,8 +144,8 @@ input.searchimain {
     bottom: 0px;
     padding-bottom: 25px;
     text-align: center;
-    color: #FFF;
-    background-color: #293640;
+    color: black;
+    background-color: white;
     width: 100%;
 }
 
